@@ -1,0 +1,37 @@
+/* Center the content on the page */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+/* Style the canvas with a border */
+canvas {
+    border: 1px solid #000;
+    background-color: #c1bebe;
+}
+
+/* Style the reset button */
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.cotainer{
+    border: 2px solid #000;
+    padding: 25px;
+
+}
+h1{
+    text-align: center;
+}
+button{
+    border: 1px solid black;
+    border-radius: 8px;
+    color: white;
+    background-color: #000;
+}
